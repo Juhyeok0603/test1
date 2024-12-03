@@ -6,7 +6,7 @@
 // $username = 'root';
 // $password = '';
 // $db = 'userdata';
-$servername = 'ec2-3-36-49-209.ap-northeast-2.compute.amazonaws.com';
+$servername = '3.36.49.209';
 $username = 'juhyeok';
 $password = '0603';
 $db = 'userdata';
