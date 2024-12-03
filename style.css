@@ -1,0 +1,85 @@
+a {
+    text-decoration-line: none;
+    color: inherit;
+}
+a.list{
+    color: black;
+}
+a.list:visited{
+    color: red;
+}
+a.list:hover{
+    color: blue;
+}
+@font-face {
+    font-family: 'CHOGOONCHICKENSCRATCHV5';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/CHOGOONCHICKENSCRATCHV5.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+.list2{
+text-align: center;
+
+}
+
+@font-face {
+    font-family: 'EF_jejudoldam';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2210-EF@1.0/EF_jejudoldam.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+h2{
+    font-family: 'EF_jejudoldam';
+}
+@font-face {
+    font-family: 'HakgyoansimPuzzleTTF-Black';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-5@1.0/HakgyoansimPuzzleTTF-Black.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+h1{
+    font-family: 'HakgyoansimPuzzleTTF-Black';
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
