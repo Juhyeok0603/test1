@@ -6,7 +6,7 @@
 // $username = 'root';
 // $password = '';
 // $db = 'userdata';
-$servername = '3.36.49.209';
+$servername = '172.31.11.83';
 $username = 'root';
 $password = '';
 $db = 'userdata';
