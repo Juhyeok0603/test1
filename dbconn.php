@@ -7,8 +7,8 @@
 // $password = '';
 // $db = 'userdata';
 $servername = '3.36.49.209';
-$username = 'juhyeok';
-$password = '0603';
+$username = 'root';
+$password = '';
 $db = 'userdata';
 
 $connect= mysqli_connect($servername,$username,$password,$db);
