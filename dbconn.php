@@ -2,7 +2,7 @@
 
 
 #db 연결
-$servername = 'localhost';
+$servername = 'ec2-54-180-251-180.ap-northeast-2.compute.amazonaws.com';
 $username = 'juhyeok';
 $password = '0603';
 $db = 'userdata';
