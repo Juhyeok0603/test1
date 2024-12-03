@@ -6,7 +6,7 @@
 // $username = 'root';
 // $password = '';
 // $db = 'userdata';
-$servername = '172.31.11.83';
+$servername = 'ip-172-31-11-83.ap-northeast-2.compute.internal';
 $username = 'root';
 $password = '';
 $db = 'userdata';
