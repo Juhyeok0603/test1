@@ -2,13 +2,9 @@
 
 
 #db 연결
-// $servername = 'localhost';
-// $username = 'root';
-// $password = '';
-// $db = 'userdata';
 $servername = 'ip-172-31-11-83.ap-northeast-2.compute.internal';
-$username = 'root';
-$password = '';
+$username = 'juhyeok';
+$password = '0603';
 $db = 'userdata';
 
 $connect= mysqli_connect($servername,$username,$password,$db);
