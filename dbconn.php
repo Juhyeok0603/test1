@@ -2,7 +2,7 @@
 
 
 #db 연결
-$servername = 'ip-172-31-11-83.ap-northeast-2.compute.internal';
+$servername = 'localhost';
 $username = 'juhyeok';
 $password = '0603';
 $db = 'userdata';
